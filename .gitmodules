@@ -1,0 +1,3 @@
+[submodule "YoruKatsu"]
+	path = YoruKatsu
+	url = git@github.com:esehara/YoruKatsu.git
